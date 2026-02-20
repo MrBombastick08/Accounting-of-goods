@@ -1,0 +1,4 @@
+username,password,role,full_name,phone
+admin,admin,admin,Пупкин Бранислав Иванович,+79999999999
+menager,menager,manager,,
+view,view,view,,

@@ -1,0 +1,2 @@
+# БД учета товаров (CSV + GUI)
+customtkinter>=5.2.0
